@@ -1,6 +1,5 @@
 node_modules/
 dist/
-samples/
 credentials/
 yarn.lock
 /**/*.js.map
