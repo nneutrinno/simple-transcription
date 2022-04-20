@@ -1,0 +1,31 @@
+{
+    "compilerOptions": {
+      "outDir": "dist",
+      "lib": [
+        "DOM"
+      ],
+      "rootDir": "../",
+      "target": "es2017",
+      "module": "commonjs",
+      "moduleResolution": "node",
+      "sourceMap": true,
+      "skipLibCheck": true,
+      "emitDecoratorMetadata": true,
+      "experimentalDecorators": true,
+      "removeComments": false,
+      "noImplicitAny": false,
+      "resolveJsonModule": true,
+      "incremental": true,
+      "typeRoots": [
+        "node_modules/@types",
+      ],
+    },
+    "include": [
+      "src/**/*",
+    ],
+    "exclude": [
+      "dist",
+      "node_modules",
+    ]
+  }
+  

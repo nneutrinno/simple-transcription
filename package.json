@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@google-cloud/speech": "^4.10.1",
+    "aigle": "^1.14.1"
+  },
+  "scripts": {
+    "start": "ts-node src/main.ts"
+  }
+}
