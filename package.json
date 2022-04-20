@@ -2,7 +2,8 @@
   "dependencies": {
     "@google-cloud/speech": "^4.10.1",
     "aigle": "^1.14.1",
-    "ts-node": "^10.7.0"
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3"
   },
   "scripts": {
     "start": "ts-node src/main.ts"
