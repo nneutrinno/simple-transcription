@@ -11,8 +11,8 @@ async function main() {
 
     const files = {
         mp3: './samples/input.mp3',
-        mp4: './samples/input.mp4',
         ogg: './samples/input.ogg',
+        flac: './samples/input.flac',
     } as const;
 
 
